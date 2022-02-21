@@ -38,6 +38,6 @@ while True:
                 onClick()
     drawButton()
     
-    screen.blit(base_font.render(' Button', True, (0,0,0)), buttonRect)
+    screen.blit(base_font.render('Button', True, (0,0,0)), (buttonRect.buttonBoundsX+5, buttonRect.buttonBoundsY+5))
     pygame.display.update()
     pygame.time.Clock().tick(60)
