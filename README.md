@@ -1,5 +1,5 @@
 # SHooK-Button
-### SHooK NOT implemented.
+### SHooK not implemented.
 just a project that im working.<br>
 That's one of the window components for the complete SWindowHooK project that i'm working on!<br><br>
 Components: <br>
